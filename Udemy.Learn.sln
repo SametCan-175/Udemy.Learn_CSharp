@@ -161,6 +161,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KapsullemePratik", "Kapsull
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.D15.01.SanalMetotNedir", "NetFramework.D15.01.SanalMetotNedir\NetFramework.D15.01.SanalMetotNedir.csproj", "{119751CE-5AE8-4A98-9D80-874420D88F7D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D16_Abstract&Interface", "D16_Abstract&Interface", "{D742B351-93FC-4837-A748-A2133B641B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.D16.01.AbstractNedir", "NetFramework.D16.01.AbstractNedir\NetFramework.D16.01.AbstractNedir.csproj", "{8C91455A-BB27-435D-B5A8-725E2671C967}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -395,6 +399,10 @@ Global
 		{119751CE-5AE8-4A98-9D80-874420D88F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{119751CE-5AE8-4A98-9D80-874420D88F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{119751CE-5AE8-4A98-9D80-874420D88F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C91455A-BB27-435D-B5A8-725E2671C967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C91455A-BB27-435D-B5A8-725E2671C967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C91455A-BB27-435D-B5A8-725E2671C967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C91455A-BB27-435D-B5A8-725E2671C967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -459,6 +467,7 @@ Global
 		{0B679857-3550-42A1-BD23-E4D1CC5C0E94} = {2C5B409D-4787-4C2C-9C05-98E89293C51F}
 		{5731EFD6-2EC6-4DC1-BCE7-5F0D0C5EB145} = {2C5B409D-4787-4C2C-9C05-98E89293C51F}
 		{119751CE-5AE8-4A98-9D80-874420D88F7D} = {D6569667-0B90-4519-B819-460D00B6014F}
+		{8C91455A-BB27-435D-B5A8-725E2671C967} = {D742B351-93FC-4837-A748-A2133B641B25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {350321BB-49A8-4EF0-BF02-CFB67D37E0A3}
