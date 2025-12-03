@@ -13,5 +13,9 @@ namespace NetFramework.D16._01.AbstractNedir
         {
             musteriID = 1;
         }
+        public override void testAbstract()
+        {
+                       Console.WriteLine("musteri  => testAbstract");
+        }
     }
 }

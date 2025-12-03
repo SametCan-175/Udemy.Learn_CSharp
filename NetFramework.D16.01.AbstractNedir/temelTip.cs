@@ -21,5 +21,6 @@ namespace NetFramework.D16._01.AbstractNedir
         {
             Console.WriteLine("Temel sınıf => test");
         }
+        public abstract void testAbstract();
     }
 }
