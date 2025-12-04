@@ -169,6 +169,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D17_PartialClass", "D17_Par
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.D17.01.PartialClassNedir", "NetFramework.D17.01.PartialClassNedir\NetFramework.D17.01.PartialClassNedir.csproj", "{8B73897A-9EDC-44EA-A309-268CB186290B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "D18_Enum", "D18_Enum", "{0C1B396B-844B-4AC9-AE3F-7A96EEC92456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.D18.01.EnumNedir", "NetFramework.D18.01.EnumNedir\NetFramework.D18.01.EnumNedir.csproj", "{B29BCE94-652F-4E8B-BB70-D7694D52E153}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -415,6 +419,10 @@ Global
 		{8B73897A-9EDC-44EA-A309-268CB186290B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B73897A-9EDC-44EA-A309-268CB186290B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B73897A-9EDC-44EA-A309-268CB186290B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29BCE94-652F-4E8B-BB70-D7694D52E153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29BCE94-652F-4E8B-BB70-D7694D52E153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29BCE94-652F-4E8B-BB70-D7694D52E153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29BCE94-652F-4E8B-BB70-D7694D52E153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -482,6 +490,7 @@ Global
 		{8C91455A-BB27-435D-B5A8-725E2671C967} = {D742B351-93FC-4837-A748-A2133B641B25}
 		{F0FA8C15-E235-4943-AE39-5F7ED169C4F0} = {D742B351-93FC-4837-A748-A2133B641B25}
 		{8B73897A-9EDC-44EA-A309-268CB186290B} = {EE322018-5A29-428E-A746-C156D548EC2F}
+		{B29BCE94-652F-4E8B-BB70-D7694D52E153} = {0C1B396B-844B-4AC9-AE3F-7A96EEC92456}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {350321BB-49A8-4EF0-BF02-CFB67D37E0A3}
